@@ -16,8 +16,6 @@ Please feel free to email Borui Wang (borui.wang@yale.edu).
 
 ## Surveys
 
-* Cross-Language Information Retrieval [[book](http://www.iro.umontreal.ca/~nie/IFT6255/Books/CLIR.pdf)]
-
 
 [**Experience Grounds Language**](https://arxiv.org/pdf/2004.10151.pdf) [[Paper](https://arxiv.org/pdf/2004.10151.pdf)]
 
