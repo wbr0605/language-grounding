@@ -43,20 +43,20 @@ This course is a graduate research seminar in grounded natural language processi
 ## Papers
 ### Language Grounding to Vision
 
-[**Illustrative Language Understanding:
+* [**Illustrative Language Understanding:
 Large-Scale Visual Grounding with Image Search**](https://www.aclweb.org/anthology/P18-1085.pdf) [[Paper](https://www.aclweb.org/anthology/P18-1085.pdf)]
 
 Jamie Ryan Kiros, William Chan, Geoffrey E. Hinton (ACL 2018)
 
 This paper introduces Picturebook, a large-scale lookup operation to ground language via ‘snapshots’ of our physical world accessed through image search.
 
-[**Learning Visually Grounded Sentence Representations**](https://arxiv.org/pdf/1707.06320.pdf) [[Paper](https://arxiv.org/pdf/1707.06320.pdf)]
+* [**Learning Visually Grounded Sentence Representations**](https://arxiv.org/pdf/1707.06320.pdf) [[Paper](https://arxiv.org/pdf/1707.06320.pdf)]
 
 Douwe Kiela, Alexis Conneau, Allan Jabri, Maximilian Nickel (NAACL 2018)
 
 This paper investigates grounded sentence representations, where they train a sentence encoder to predict the image features of a given caption. They examine the quality of the learned representations on a variety of standard sentence representation quality benchmarks, showing improved performance for grounded models over non-grounded ones. 
 
-[**Grounding language acquisition by training semantic parsers using captioned videos**](https://www.aclweb.org/anthology/D18-1285.pdf) [[Paper](https://www.aclweb.org/anthology/D18-1285.pdf)]
+* [**Grounding language acquisition by training semantic parsers using captioned videos**](https://www.aclweb.org/anthology/D18-1285.pdf) [[Paper](https://www.aclweb.org/anthology/D18-1285.pdf)]
 
 Candace Ross, Andrei Barbu, Yevgeni Berzak, Battushig Myanganbayar, Boris Katz (EMNLP 2018)
 
